@@ -1,0 +1,6 @@
+#ifndef NIGHTBLOOD_MATH_MATRIX4_H
+#define NIGHTBLOOD_MATH_MATRIX4_H
+
+// Matrix4 math header
+
+#endif // NIGHTBLOOD_MATH_MATRIX4_H

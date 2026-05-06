@@ -1,0 +1,6 @@
+#ifndef NIGHTBLOOD_RENDERING_WINDOW_H
+#define NIGHTBLOOD_RENDERING_WINDOW_H
+
+// Window management header
+
+#endif // NIGHTBLOOD_RENDERING_WINDOW_H

@@ -1,0 +1,6 @@
+#ifndef NIGHTBLOOD_CORE_LOGGER_H
+#define NIGHTBLOOD_CORE_LOGGER_H
+
+// Logger module header
+
+#endif // NIGHTBLOOD_CORE_LOGGER_H

@@ -1,0 +1,6 @@
+#ifndef NIGHTBLOOD_ECS_COMPONENT_H
+#define NIGHTBLOOD_ECS_COMPONENT_H
+
+// Component system header
+
+#endif // NIGHTBLOOD_ECS_COMPONENT_H

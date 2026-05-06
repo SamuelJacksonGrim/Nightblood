@@ -1,0 +1,6 @@
+#ifndef NIGHTBLOOD_ECS_SYSTEM_H
+#define NIGHTBLOOD_ECS_SYSTEM_H
+
+// System header
+
+#endif // NIGHTBLOOD_ECS_SYSTEM_H

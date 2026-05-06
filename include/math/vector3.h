@@ -1,0 +1,6 @@
+#ifndef NIGHTBLOOD_MATH_VECTOR3_H
+#define NIGHTBLOOD_MATH_VECTOR3_H
+
+// Vector3 math header
+
+#endif // NIGHTBLOOD_MATH_VECTOR3_H
